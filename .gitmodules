@@ -1,0 +1,3 @@
+[submodule "lesson_02/minimal"]
+	path = lesson_02/minimal
+	url = https://huggingface.co/spaces/atticusmatticus/minimal
